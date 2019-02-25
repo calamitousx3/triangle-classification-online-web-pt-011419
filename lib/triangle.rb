@@ -8,6 +8,8 @@ class Triangle
   end  
   
   def kind 
+    #is triangle is invalid
+    raise TriangleError
     
   end 
 end
