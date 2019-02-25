@@ -10,7 +10,7 @@ class Triangle
   
   def kind 
     #is triangle is invalid
-    raise TriangleError
+   # raise TriangleError
     
   end 
 end
