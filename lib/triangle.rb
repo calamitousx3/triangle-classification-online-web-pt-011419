@@ -35,6 +35,6 @@ def valid?
   end
  
 
-class TriangleError < 
+class TriangleError 
 
 end
