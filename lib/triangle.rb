@@ -5,7 +5,7 @@ class Triangle
     @triangle_sides << side_1
     @triangle_sides << side_2
     @triangle_sides << side_3
-  end  
+  end
   
   def kind 
     #is triangle is invalid
